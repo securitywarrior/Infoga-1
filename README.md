@@ -10,4 +10,5 @@ Infoga is a tool for gathering e-mail accounts information from different public
 ## Installation
 > git clone https://github.com/m4ll0k/Infoga.git
 >> cd Infoga
->>> python infoga.py
+>>> pip install -r requires.txt 
+>>>> python infoga.py
