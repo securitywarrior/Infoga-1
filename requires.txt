@@ -1,0 +1,8 @@
+json
+getopt 
+socket
+re
+urllib3
+urlparse
+requests
+lxml.html
