@@ -112,7 +112,6 @@ class Infoga(object):
 					print ""
 				else:
 					print "\t\t|__ %s (%s)"%(new[s],self.sock)
-			sys.exit()
 
 	def Google(self):
 		Printer.MyPrinter().nprint("Searching \"%s\" in Google..."%(self.CheckUrl(self.Keyword)))
